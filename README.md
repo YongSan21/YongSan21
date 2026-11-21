@@ -1,7 +1,7 @@
 ## Hi there 👋
-<p>🐱 hi i'm yong san </p>
-<p>💻 Final Year Software Engineering Undergraduate</p>
-<p>🔍 Seeking Software Internship from Jan - Apr 26'</p>
-<p>🎓 Sunway University, Selangor </p>
+<p>🐱 hi i'm Yong San </p>
+<p>🎓 Bachelor of Software Engineering (Hons) Graduate from Sunway University</p>
+<p>💻 Interested in Software Development and Web Technologies</p>
+<p>🚀 Open to new opportunities and continuous learning</p>
 <!--
 
